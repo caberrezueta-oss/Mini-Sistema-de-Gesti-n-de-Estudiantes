@@ -1,2 +1,0 @@
-# ts-ejercicios
-
